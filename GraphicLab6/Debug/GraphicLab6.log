@@ -1,0 +1,20 @@
+﻿  Source.cpp
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(81): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(89): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(97): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u041F", невозможно представить в текущей кодовой странице (1257)
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u0440", невозможно представить в текущей кодовой странице (1257)
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u0438", невозможно представить в текущей кодовой странице (1257)
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u043C", невозможно представить в текущей кодовой странице (1257)
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u0435", невозможно представить в текущей кодовой странице (1257)
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u0443", невозможно представить в текущей кодовой странице (1257)
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u0441", невозможно представить в текущей кодовой странице (1257)
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u0442", невозможно представить в текущей кодовой странице (1257)
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u0430", невозможно представить в текущей кодовой странице (1257)
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u043D", невозможно представить в текущей кодовой странице (1257)
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u043E", невозможно представить в текущей кодовой странице (1257)
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u0432", невозможно представить в текущей кодовой странице (1257)
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u043A", невозможно представить в текущей кодовой странице (1257)
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6\source.cpp(146): warning C4566: символ, представленный универсальным именем символа "\u0447", невозможно представить в текущей кодовой странице (1257)
+  GraphicLab6.vcxproj -> c:\users\miroo\documents\visual studio 2015\Projects\GraphicLab6\Debug\GraphicLab6.exe
+  GraphicLab6.vcxproj -> c:\users\miroo\documents\visual studio 2015\Projects\GraphicLab6\Debug\GraphicLab6.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6_1\source.cpp(58): warning C4101: z: неиспользованная локальная переменная
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6_1\source.cpp(58): warning C4101: y: неиспользованная локальная переменная
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6_1\source.cpp(58): warning C4101: x: неиспользованная локальная переменная
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6_1\source.cpp(73): warning C4101: b: неиспользованная локальная переменная
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6_1\source.cpp(73): warning C4101: g: неиспользованная локальная переменная
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6_1\source.cpp(73): warning C4101: r: неиспользованная локальная переменная
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab6\graphiclab6_1\source.cpp(138): warning C4018: <: несоответствие типов со знаком и без знака
+  GraphicLab6_1.vcxproj -> c:\users\miroo\documents\visual studio 2015\Projects\GraphicLab6\Debug\GraphicLab6_1.exe
+  GraphicLab6_1.vcxproj -> c:\users\miroo\documents\visual studio 2015\Projects\GraphicLab6\Debug\GraphicLab6_1.pdb (Full PDB)
